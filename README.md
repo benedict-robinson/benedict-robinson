@@ -4,7 +4,7 @@
 
 ## Hey! 👋 I'm Benedict
 
-Full Stack JavaScript Developer 🧑‍💻 Learning C# 🤓 
+Full Stack JavaScript Developer 🧑‍💻 Learning Python 🤓 
 
 <p align="center">
     <!-- Most of these icons are from devicon.dev. Credits go to them and icons8! -->
@@ -23,7 +23,7 @@ Full Stack JavaScript Developer 🧑‍💻 Learning C# 🤓
 Currently working on:
 - 🥁 A Drum Machine
 - 🖥️ Portfolio Website
-- 🇨 C#
+- 🐍 Python
 
 <table align="center">
   <tr>
